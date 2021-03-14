@@ -1,4 +1,4 @@
-# SpringBoot with MySQL connection - Books
+# SpringBoot with MySQL connection APPLICATION - Books
 
 #Test content
 
