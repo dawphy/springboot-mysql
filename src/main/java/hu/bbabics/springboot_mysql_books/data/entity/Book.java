@@ -2,6 +2,8 @@ package hu.bbabics.springboot_mysql_books.data.entity;
 
 import javax.persistence.*;
 
+//Class decoration
+
 @Entity
 @Table(name = "books")
 public class Book {
